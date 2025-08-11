@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm YuannZing 👋
 
-<!--
-**YuannZing/YuannZing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A passionate vocational high school student exploring the world of software development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a student at a vocational high school (SMK) with a keen interest in programming and technology. I love experimenting with new frameworks and enjoy building small projects to sharpen my skills. For me, learning to code is a gateway to endless possibilities!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Python**
+- **JavaScript**
+- **React**
+- **Next.js**
+- **Nuxt.js**
+- **Golang**
+
+## 🌟 Featured Projects
+- **Simple To-Do App**  
+  Built with React and Golang for personal productivity.
+- **Personal Portfolio Website**  
+  Responsive static site made with Nuxt.js.
+- **School Data API**  
+  A basic API using Golang to serve school-related data.
+
+*(These projects are samples—you can replace them with your actual favorites anytime!)*
+
+## 📫 Contact Me
+- [LinkedIn](https://linkedin.com/in/yuannzing) *(sample link—add your own!)*
+- Email: yuannzing@email.com *(sample)*
+
+## 🎯 Motto
+> "Learn today, succeed tomorrow!"
+
+## 🎲 Fun Facts
+- Always excited to try new frameworks and join hackathons.
+- Coffee and anime lover.
+- Dreaming of becoming a professional software engineer.
+
+---
+
+Thanks for visiting my profile! Feel free to connect or collaborate on exciting projects 🚀
