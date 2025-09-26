@@ -24,8 +24,8 @@ I'm a student at a vocational high school (SMK) with a keen interest in programm
 *(These projects are samples—you can replace them with your actual favorites anytime!)*
 
 ## 📫 Contact Me
-- [LinkedIn](https://linkedin.com/in/yuannzing) *(sample link—add your own!)*
-- Email: yuannzing@email.com *(sample)*
+- [LinkedIn](https://www.linkedin.com/in/farrel-dirga-purnama-30401a354/)
+- Email: dirgafarrel2008@gmail.com
 
 ## 🎯 Motto
 > "Learn today, succeed tomorrow!"
